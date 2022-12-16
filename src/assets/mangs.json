@@ -1,0 +1,95 @@
+[
+    {
+      "name": "Tokyo Ghoul",
+      "description": "A classic  shonen  Manga!",
+      "chapters": 322,
+      "image": "images/tgjpg.jpeg",
+      "categories": [" Shonen ", " Horror ", " Multiple ", " Action "]
+
+    },
+    {
+      "name": "The Fragrant Flower Blooms with Dignity",
+      "description": "An up and coming popular  shoujo  with  multiple  awards to its name",
+      "chapters": 55,
+      "image": "images/fragrant_flower.jpeg",
+      "categories": [" Shoujo ", " SOL ", " Romance ", " Drama "]
+    },
+    {
+      "name": "ReLife",
+      "description": "A slice of life that utilizes isekai elements to tell a heartwarming tale of redemption and improvement",
+      "chapters": 171,
+      "image": "images/relife.jpg",
+      "categories": [" Shonen ", " SOL ", " Drama ", " Romance "]
+    },
+    {
+      "name": "Chainsaw Man",
+      "description": "An  action   shonen  focused on Denji who takes on the role of the titular 'Chainsaw Man'",
+      "chapters": 104,
+      "image": "images/chainsawman.jpeg",
+      "categories": [" Shonen ", " Action ", " Drama ", " Comedy "]
+    },
+    {
+        "name": "Sailor Moon",
+        "description": "A girl running to school with toast in her mouth! A staple of the time, and an amazing  shoujo  that defined a generation",
+        "chapters": 60,
+        "image": "images/sailormoon.jpg",
+        "categories": [" Shoujo ", " Action ", " Drama ", " Romance "]
+    },
+    {
+        "name": "Blue Lock",
+        "description": "A soccer  shonen  that is the antithesis of other sports  shonen . No power of friendship to be found here!",
+        "chapters": 105,
+        "image": "images/bluelock.jpeg",
+        "categories": [" Shonen ", "Sports", " Action ", " Drama "]
+    },
+    {
+        "name": "Horimiya",
+        "description": "A  shonen  with reiwa energy oozing from the seams!  Romance  with conversation rather than a multitude of silly problems.",
+        "chapters": 165,
+        "image": "images/horimiya.jpeg",
+        "categories": [" Shonen ", " Romance ", " Comedy ", " SOL "]
+    },
+    {
+        "name": "Akatsuki no Yona",
+        "description": "Fantasy, Love, and  Action ! What more could you ask for! A woman out for redemption and a story with ample room for character development",
+        "chapters": 200,
+        "image": "images/yona.jpeg",
+        "categories": [" Shoujo ", " Romance ", " Action ", " Comedy "]
+    },
+    {
+        "name": "Kuroko's Basketball",
+        "description": "It's 'Sports'. Players with fantastical powers stretching the meaning of the sport",
+        "chapters": 200,
+        "image": "images/kuroko.jpeg",
+        "categories": [" Shonen ", "Sports", " Action ", " SOL "]
+    },
+    {
+        "name": "Bocchi the Rock",
+        "description": "A sweethearted tale about a high school girl's struggle to find friends and the music that brings them together",
+        "chapters": 75,
+        "image": "images/bocchi.jpeg",
+        "categories": [" Seinen ", " Music ", " Comedy ", " SOL "]
+    },
+    {
+        "name": "Great Teacher Onizuka",
+        "description": "A classic about a fish out of water teacher imparting unique life lessons on his students",
+        "chapters": 75,
+        "image": "images/gto.jpeg",
+        "categories": [" Shonen ", " Comedy ", " SOL "]
+    },
+    {
+        "name": "Hunter x Hunter",
+        "description": "Togashi's timeless never ending classic!",
+        "chapters": 250,
+        "image": "images/hunterhunter.jpeg",
+        "categories": [" Shonen ", " Action ", " Comedy "]
+    },
+    {
+        "name": "Gatsu no Lion",
+        "description": "Tears",
+        "chapters": 250,
+        "image": "images/gatsu.jpg",
+        "categories": [" Shoujo ", " Drama ", " SOL "]
+    }
+  ]
+  
